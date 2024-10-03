@@ -14,23 +14,6 @@
       <change afterPath="$PROJECT_DIR$/../hn/hn_submissions.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../hn/readable_hn_data.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../practice_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pyproj.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first_proj/main/static/main/img/earth.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first_proj/main/templates/main/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first_proj/main/templates/main/contacts.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first_proj/main/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first_proj/news/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first_proj/news/templates/news/create.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first_proj/news/templates/news/details_view.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first_proj/news/templates/news/news-delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first_proj/news/templates/news/news_home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first_proj/news/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
