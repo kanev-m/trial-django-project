@@ -1,0 +1,82 @@
+/* параметры основной страницы */
+body {
+    background: #202020;
+    color: #CCFFE5;
+}
+
+/* параметры блока навигации */
+aside {
+    float: left;
+    background: #18061B;
+    width: 20%;
+    padding: 2.5%;
+    height: 100vh;
+    color: #CCFFE5;
+    border-right: 5px solid #330033;
+}
+
+/* параметры изображения проекта */
+aside img{
+    width: 30px;
+    float: left;
+}
+
+/* параметры названия проекта */
+aside .logo {
+    font-size: 30px;
+    margin-left: 10px;
+    position: relative;
+    top: -7px;
+}
+
+/* параметры расположения навигации */
+aside h3{
+    margin-top: 40px;
+}
+
+aside ul{list-style: none}
+/* параметры названия проекта */
+aside ul li{
+    color: #CCFFE5;
+    display: block;
+    margin-top: 10px;
+}
+
+/* параметры при наведении в навигации */
+aside ul li:hover, aside ul a:hover {
+    color: #808080;
+    text-decoration: none;
+}
+
+/* подчеркивание текста в навигации */
+aside a {
+text-decoration: none;
+}
+
+/* параметры основной страницы */
+main .features {
+    float: left;
+    color: #CCFFE5;
+    margin-top: 50px;
+    text-align: center;
+    width: 80%;
+}
+
+main .features h1 {font-size: 50px;}
+main .features p {max-width: 500px;  margin: 20px auto}
+
+/* параметры новостной страницы */
+.alert-warning {
+    float: left;
+    clear: both;
+    width: 400px;
+    margin: 20px 34%;
+    text-align: left;
+}
+
+/* параметры страницы добавления новостей */
+form {
+    margin-left: 32%;
+    width: 500px;
+    margin-top: 50px;
+}
